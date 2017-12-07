@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d16fad0f-469e-41ce-8791-5ebfe65edbb1" name="Default" comment="" />
+    <list default="true" id="d16fad0f-469e-41ce-8791-5ebfe65edbb1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/application/layout/header.inc.php" afterPath="$PROJECT_DIR$/Projet 2/TechNews/application/layout/header.inc.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,21 +23,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.inc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projet 2/TechNews/application/layout/footer.inc.php">
+      <file leaf-file-name="header.inc.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Projet 2/TechNews/application/layout/header.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="26">
+              <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.inc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projet 2/TechNews/application/layout/header.inc.php">
+      <file leaf-file-name="footer.inc.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projet 2/TechNews/application/layout/footer.inc.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bootstrap.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Projet 2/TechNews/public/bootstrap.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
@@ -89,6 +91,7 @@
         <option value="/HTML Fragment (menu.inc.php:0).html" />
         <option value="$PROJECT_DIR$/Projet 2/TechNews/public/bootstrap.php" />
         <option value="$PROJECT_DIR$/Projet 2/TechNews/public/index.php" />
+        <option value="$PROJECT_DIR$/Projet 2/TechNews/application/layout/header.inc.php" />
       </list>
     </option>
   </component>
@@ -191,12 +194,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512636301831</updated>
-      <workItem from="1512636304358" duration="12691000" />
+      <workItem from="1512636304358" duration="12936000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12691000" />
+    <option name="totallyTimeSpent" value="12936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="527" extended-state="0" />
@@ -329,14 +332,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projet 2/TechNews/application/layout/header.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Projet 2/TechNews/application/layout/menu.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
@@ -365,6 +360,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projet 2/TechNews/application/layout/header.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
           <folding />
         </state>
       </provider>
