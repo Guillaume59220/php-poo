@@ -38,3 +38,6 @@
         <div class="loading-wrapper">
         </div>
     </div>
+
+    <?php
+include_once 'menu.inc.php';

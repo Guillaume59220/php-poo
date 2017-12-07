@@ -3,7 +3,65 @@
   <component name="ChangeListManager">
     <list default="true" id="d16fad0f-469e-41ce-8791-5ebfe65edbb1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/index.php" afterPath="$PROJECT_DIR$/Projet 2/TechNews/index.php" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/css/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/css/font-awesome.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/css/main.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/css/main.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/css/main.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/css/normalize.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/css/normalize.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/css/owl.carousel.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/css/owl.carousel.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/css/scss/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/css/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/header.inc.php" afterPath="$PROJECT_DIR$/Projet 2/TechNews/header.inc.php" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/ads.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/apple-touch-icon-114x114.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/apple-touch-icon-57x57.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/apple-touch-icon-72x72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/avatar.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/avatar1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/avatar2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/favicon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/logo_footer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/10.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/13.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/14.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/15.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/16.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/17.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/18.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/images/product/9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/js/jquery.matchHeight.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/js/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/js/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Projet 2/TechNews/js/owl.carousel.min.js" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,21 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.inc.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="menu.inc.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Projet 2/TechNews/menu.inc.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-7">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Projet 2/TechNews/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -164,12 +212,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512636301831</updated>
-      <workItem from="1512636304358" duration="10437000" />
+      <workItem from="1512636304358" duration="11031000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10437000" />
+    <option name="totallyTimeSpent" value="11031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -278,18 +326,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projet 2/TechNews/menu.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Projet 2/TechNews/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projet 2/TechNews/menu.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
