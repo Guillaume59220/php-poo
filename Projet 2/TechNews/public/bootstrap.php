@@ -1,6 +1,6 @@
 <?php
 
-define('PATH ROOT', dirname(path:__dir__));
+define('PATH ROOT', dirname(__dir__));
 define('PATH_PUBLIC', PATH_ROOT . '/public');
 define('PATH_APPLICATION', PATH_ROOT . '/APPLICATION');
 define('PATH_LAYOUT', PATH_ROOT . '/Layout');
